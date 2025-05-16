@@ -55,4 +55,4 @@
 </p>
 
 ## 📫 Let’s Connect
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/nazar-levkovych-333501266/) or Telegram [@Getlostqq](https://t.me/Getlostqq) — I’m always open to new collaborations!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/nazar-levkovych-333501266/) or Telegram [@NasyTheSlayer](https://t.me/NasyTheSlayer) — I’m always open to new collaborations!
