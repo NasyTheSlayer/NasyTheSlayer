@@ -33,6 +33,10 @@ I’m a passionate Full-Stack Developer with over 2 years of experience building
 ## 🛠️ Tech Stack
 
 - **Languages:** JavaScript | TypeScript | HTML5 | CSS3  
+<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg">
+  <rect width="24" height="24" fill="#8FBCBB"/>
+  <path d="M4 18 L12 6 L20 18 Z" fill="#2E3440"/>
+</svg>
 - **Frameworks:** React • Next.js • Vue • Angular  
 - **State Management:** Redux • Zustand  
 - **Backend:** Node.js • Express • NestJS  
