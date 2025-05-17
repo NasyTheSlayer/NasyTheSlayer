@@ -9,10 +9,10 @@
 <h3 align="center">Full‑Stack Developer | Node.js • Next.js • React • AWS</h3>
 
 <p align="center">
-  <a href="https://github.com/NasyTheSlayer"><img src="./assets/github-follow.svg" alt="GitHub Followers" width="32"/></a>
-  <a href="https://flowcv.com/resume/c052skt3om"><img src="./assets/resume.svg" alt="Resume" width="32"/></a>
-  <a href="https://www.linkedin.com/in/nazar-levkovych-333501266/"><img src="./assets/linkedin.svg" alt="LinkedIn" width="32"/></a>
-  <a href="https://t.me/NasyTheSlayer"><img src="./assets/telegram.svg" alt="Telegram" width="32"/></a>
+  <a href="https://github.com/NasyTheSlayer"><img src="https://img.shields.io/github/followers/NasyTheSlayer?label=Follow&style=social" alt="GitHub Followers" /></a>
+  <a href="https://flowcv.com/resume/c052skt3om"><img src="https://img.shields.io/badge/Resume-FlowCV-007ACC?style=for-the-badge" alt="Resume" /></a>
+  <a href="https://www.linkedin.com/in/nazar-levkovych-333501266/"><img src="https://img.shields.io/badge/LinkedIn-Nazar%20Levkovych-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/NasyTheSlayer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
 ---
@@ -25,7 +25,6 @@ I’m a passionate Full-Stack Developer with over 2 years of experience building
 <!--   <img src="./assets/about.svg" alt="About Illustration" width="200" /> -->
   <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
   <circle cx="100" cy="100" r="80" fill="#81A1C1" />
-  <text x="100" y="115" font-size="24" text-anchor="middle" fill="#ECEFF4">About</text>
 </svg>
 </p>
 
