@@ -65,71 +65,37 @@ I’m a passionate Full-Stack Developer with over 2 years of experience building
 
 ---
 
-## 🚧 Selected Projects
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 2rem;">
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Technologies</th>
-      <th>Demo</th>
-      <th>Repo</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>NextConnect</strong></td>
-      <td>Next.js • Tailwind • Clerk</td>
-      <td><a href="#">Live Demo</a></td>
-      <td><a href="#">Code</a></td>
-    </tr>
-    <tr>
-      <td><strong>PhoneFleet</strong></td>
-      <td>React • Vite • Material UI</td>
-      <td><a href="https://nasytheslayer.github.io/ReactPhoneCatalog/">Live Demo</a></td>
-      <td><a href="https://github.com/NasyTheSlayer/ReactPhoneCatalog">GitHub</a></td>
-    </tr>
-    <tr>
-      <td><strong>BudgetTracker</strong></td>
-      <td>Angular • NgRx • Firebase</td>
-      <td><a href="#">Live Demo</a></td>
-      <td><a href="#">Repo</a></td>
-    </tr>
-  </tbody>
-</table>
+## 🚧 Projects
 
 <table>
-  <thead>
-    <tr>
-      <th>Test Task</th>
-      <th>Description</th>
-      <th>Status</th>
-      <th>Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>UI Component</strong></td>
-      <td>Create responsive card component</td>
-      <td>Completed</td>
-      <td><a href="#">View</a></td>
-    </tr>
-    <tr>
-      <td><strong>API Integration</strong></td>
-      <td>Consume public REST API</td>
-      <td>In Progress</td>
-      <td><a href="#">Repo</a></td>
-    </tr>
-    <tr>
-      <td><strong>Database Schema</strong></td>
-      <td>Design relational model</td>
-      <td>Pending</td>
-      <td><a href="#">Details</a></td>
-    </tr>
-  </tbody>
+  <tr>
+    <td valign="top" width="50%">
+
+**Pet Projects**  
+| Project            | Tech Stack                         | Demo             | Code             |
+|--------------------|------------------------------------|------------------|------------------|
+| **NextConnect**    | Next.js • Tailwind • Clerk         | [Live](#)        | [Repo](#)        |
+| **2048 Mastermind**| JavaScript                         | [Live](#)        | [Repo](#)        |
+| **PhoneFleet**     | React • TypeScript • Redux         | [Live](#)        | [Repo](#)        |
+| **SneakerSphere**  | React • Figma design • Axios       | [Live](#)        | [Repo](#)        |
+| **BudgetTracker**  | Angular • NgRx • Firebase          | [Live](#)        | [Repo](#)        |
+
+    </td>
+    <td valign="top" width="50%">
+
+**Test Tasks**  
+| Task               | Description                         | Status       | Link             |
+|--------------------|-------------------------------------|--------------|------------------|
+| **UI Component**   | Responsive card component           | Completed    | [View](#)        |
+| **API Integration**| Consume public REST API             | In Progress  | [Repo](#)        |
+| **DB Schema**      | Design relational data model        | Pending      | [Details](#)     |
+
+    </td>
+  </tr>
 </table>
-</div>
+
+*Tables rendered with GitHub-flavored Markdown (organizing information into columns) turn0search5 :contentReference[oaicite:1]{index=1}.*
+
 ---
 
 ## 📫 Let’s Connect
