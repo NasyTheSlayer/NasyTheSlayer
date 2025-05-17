@@ -46,6 +46,12 @@ I’m a passionate Full-Stack Developer with over 2 years of experience building
 - 🧠 **Problem Solving:** Solved **200+ challenges on LeetCode** and **50+ katas on CodeWars**.  
 - 📚 **Continuous Learning:** Completed *Grokking Algorithms* by Aditya Bhargava and *JavaScript: The Definitive Guide* by David Flanagan.
 
+## 🏆 Coding Profile:
+
+[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/NasyTheSlayer/)
+[![codewars](https://img.shields.io/badge/-Codewars-EA2532?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/NasyTheSlayer)
+
+
 <p align="center">
 <!--   <img src="./assets/achievements.svg" alt="Achievements Illustration" width="200" /> -->
   <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
@@ -91,10 +97,3 @@ Feel free to reach out!
 - ✉️ Email: <a href="mailto:nazar@example.com">nazar.levkovich.2018@gmail.com</a>  
 - 💬 Telegram: <a href="https://t.me/NasyTheSlayer">@NasyTheSlayer</a>  
 - 🗨️ LinkedIn: <a href="https://www.linkedin.com/in/nazar-levkovych-333501266/">Nazar Levkovych</a>
-
-<p align="center">
-<!--   <img src="./assets/footer-wave.svg" alt="Footer Wave" width="100%" /> -->
-  <svg width="1440" height="320" viewBox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg">
-  <path fill="#a2d9ff" fill-opacity="1" d="M0,128L18.5,128C36.9,128,74,128,111,112C147.7,96,185,64,222,85.3C258.5,107,295,181,332,176C369.2,171,406,85,443,90.7C480,96,517,192,554,234.7C590.8,277,628,267,665,234.7C701.5,203,738,149,775,144C812.3,139,849,181,886,192C923.1,203,960,181,997,186.7C1033.8,192,1071,224,1108,234.7C1144.6,245,1182,235,1218,197.3C1255.4,160,1292,96,1329,74.7C1366.2,53,1403,75,1422,85.3L1440,96L1440,320L1421.5,320C1403.1,320,1366,320,1329,320C1292.3,320,1255,320,1218,320C1181.5,320,1145,320,1108,320C1070.8,320,1034,320,997,320C960,320,923,320,886,320C849.2,320,812,320,775,320C738.5,320,702,320,665,320C627.7,320,591,320,554,320C516.9,320,480,320,443,320,406.2,320,369,320,332,320,295.4,320,258,320,222,320,184.6,320,148,320,111,320,73.8,320,37,320,18,320,0,320Z"/>
-</svg>
-</p>
