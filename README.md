@@ -2,8 +2,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Nazar+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 
----
-
 <h3 align="center">Full‑Stack Developer | Node.js • Next.js • React • AWS</h3>
 
 <p align="center">
@@ -12,8 +10,6 @@
   <a href="https://www.linkedin.com/in/nazar-levkovych-333501266/"><img src="https://img.shields.io/badge/LinkedIn-Nazar%20Levkovych-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://t.me/NasyTheSlayer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
-
----
 
 ## 🚀 About Me
 
@@ -26,8 +22,6 @@ I’m a passionate Full-Stack Developer with over 2 years of experience building
 </svg>
 </p>
 
----
-
 ## 🛠️ Tech Stack
 
 - **Languages:** JavaScript | TypeScript | HTML5 | CSS3  
@@ -37,8 +31,6 @@ I’m a passionate Full-Stack Developer with over 2 years of experience building
 - **Databases:** PostgreSQL • MongoDB  
 - **Cloud & DevOps:** AWS (EC2 • S3 • Lambda) • Docker • GitHub Actions  
 - **Testing:** Jest • Cypress • React Testing Library
-
----
 
 ## 🌟 Achievements
 
@@ -60,8 +52,6 @@ I’m a passionate Full-Stack Developer with over 2 years of experience building
   <polygon points="100,10 120,180 10,60 190,60 80,180" fill="#B48EAD" />
 </svg>
 </p>
-
----
 
 ## 🚧 Projects
 
@@ -90,8 +80,6 @@ I’m a passionate Full-Stack Developer with over 2 years of experience building
   </div>
 
 </div>
-
----
 
 ## 📫 Let’s Connect
 
