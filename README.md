@@ -31,33 +31,6 @@ I’m a passionate Full-Stack Developer with over 2 years of experience building
 ---
 
 ## 🛠️ Tech Stack
-<div align="center">
-<!--   <img src="./assets/languages.svg" alt="Languages" width="100" /> -->
-<!--   <img src="./assets/frontend.svg" alt="Frontend" width="100" /> -->
-<!--   <img src="./assets/backend.svg" alt="Backend" width="100" /> -->
-<!--   <img src="./assets/cloud.svg" alt="Cloud & DevOps" width="100" /> -->
-<!--   <img src="./assets/testing.svg" alt="Testing" width="100" /> -->
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100" height="100" fill="#88C0D0" />
-  <text x="50" y="55" font-size="16" text-anchor="middle" fill="#2E3440">JS/TS</text>
-</svg>
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100" height="100" fill="#8FBCBB" />
-  <text x="50" y="55" font-size="16" text-anchor="middle" fill="#2E3440">Front</text>
-</svg>
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100" height="100" fill="#A3BE8C" />
-  <text x="50" y="55" font-size="16" text-anchor="middle" fill="#2E3440">Back</text>
-</svg>
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100" height="100" fill="#EBCB8B" />
-  <text x="50" y="55" font-size="14" text-anchor="middle" fill="#2E3440">Cloud</text>
-</svg>
-  <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100" height="100" fill="#D08770" />
-  <text x="50" y="55" font-size="14" text-anchor="middle" fill="#2E3440">Test</text>
-</svg>
-</div>
 
 - **Languages:** JavaScript | TypeScript | HTML5 | CSS3  
 - **Frameworks:** React • Next.js • Vue • Angular  
@@ -79,7 +52,6 @@ I’m a passionate Full-Stack Developer with over 2 years of experience building
 <!--   <img src="./assets/achievements.svg" alt="Achievements Illustration" width="200" /> -->
   <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
   <polygon points="100,10 120,180 10,60 190,60 80,180" fill="#B48EAD" />
-  <text x="100" y="110" font-size="24" text-anchor="middle" fill="#ECEFF4">Wins</text>
 </svg>
 </p>
 
