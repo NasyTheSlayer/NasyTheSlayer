@@ -1,87 +1,190 @@
-<!-- HERO SECTION WAVE -->
-<svg width="100%" height="40" viewBox="0 0 1200 40" xmlns="http://www.w3.org/2000/svg">
-  <path d="M0,20 C150,40 350,0 600,20 C850,40 1050,0 1200,20 L1200,40 L0,40 Z" fill="#2E3440" />
+<p align="center">
+<!--   <img src="./assets/hero.svg" alt="Hero Wave" width="100%" /> -->
+  <svg width="1200" height="40" viewBox="0 0 1200 40" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0,20 C150,40 350,0 600,20 C850,40 1050,0 1200,20 L1200,40 L0,40 Z" fill="#2E3440"/>
 </svg>
+</p>
 
 <h1 align="center">👋 Hi, I’m Nazar Levkovych</h1>
-<h3 align="center">Full-Stack Developer | Scalable Web Solutions | Node.js • Next.js • React • AWS</h3>
+<h3 align="center">Full-Stack Developer | Node.js • Next.js • React • AWS</h3>
 
 <p align="center">
-  <a href="https://github.com/NasyTheSlayer" title="GitHub">
-    <svg width="32" height="32" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-      <path fill-rule="evenodd" clip-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.58.82-2.14-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82A7.68 7.68 0 018 4.58a7.7 7.7 0 011.99.27c1.53-1.03 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.14 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.19 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z" fill="#181717"/>
-    </svg>
-  </a>
-  <a href="https://flowcv.com/resume/c052skt3om" title="Resume">
-    <svg width="32" height="32" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-      <rect width="64" height="64" rx="8" fill="#007ACC"/>
-      <text x="32" y="40" font-size="24" fill="#FFF" text-anchor="middle" font-family="Arial">CV</text>
-    </svg>
-  </a>
-  <a href="https://www.linkedin.com/in/nazar-levkovych-333501266/" title="LinkedIn">
-    <svg width="32" height="32" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
-      <path d="M100.28 448H7.4V149.89h92.88zM53.79 108.1c-29.25 0-52.93-23.78-52.93-52.93a52.93 52.93 0 11105.86 0c0 29.15-23.68 52.93-52.93 52.93zm394.21 339.9h-92.68V302.4c0-34.73-12.45-58.45-43.62-58.45-23.8 0-37.96 16-44.26 31.44-2.27 5.54-2.84 13.23-2.84 20.96v151.7h-92.66s1.24-246 0-271.1h92.66v38.41c-.18.29-.43.57-.61.86h.61v-.86c12.31-19 34.3-46.12 83.44-46.12 60.94 0 106.67 39.78 106.67 125.37z" fill="#0077B5"/>
-    </svg>
-  </a>
-  <a href="https://t.me/NasyTheSlayer" title="Telegram">
-    <svg width="32" height="32" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="120" cy="120" r="120" fill="#2CA5E0"/>
-      <path d="M195.4 69.3L180 180.6c-1.2 5.4-4.3 6.8-8.7 4.3l-24.2-17.8-11.6 11.2c-1.3 1.3-2.4 2.4-4.9 2.4l1.7-24.3 44.3-40C197.2 73 194.2 71 195.4 69.3zM102 148.5l.3 40.5c.6 0 .9-.3 1.3-.6l3.1-4.9c1.8-3 3.6-6.2 5.2-9.3l25.9-46.6c1-1.7-.2-2.7-1.6-2l-63.9 39.2c-1.6.9-1.6 2 0 2.8l38.7 24.9z" fill="#FFF"/>
-    </svg>
-  </a>
+  <a href="https://github.com/NasyTheSlayer"><img src="./assets/github-follow.svg" alt="GitHub Followers" width="32"/></a>
+  <a href="https://flowcv.com/resume/c052skt3om"><img src="./assets/resume.svg" alt="Resume" width="32"/></a>
+  <a href="https://www.linkedin.com/in/nazar-levkovych-333501266/"><img src="./assets/linkedin.svg" alt="LinkedIn" width="32"/></a>
+  <a href="https://t.me/NasyTheSlayer"><img src="./assets/telegram.svg" alt="Telegram" width="32"/></a>
 </p>
 
 ---
 
 ## 🚀 About Me
-I am a Full-Stack Developer with over 2 years of experience building high-performance web solutions. Passionate about clean code, scalable architectures, and collaborative workflows.
 
-<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" style="display:block;margin:20px auto;">
-  <rect width="200" height="200" rx="20" fill="#E5E7EB"/>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#374151" font-size="24" font-family="Arial">👨‍💻</text>
+I’m a passionate Full-Stack Developer with over 2 years of experience building high-performance web applications and scalable backend services. I thrive on optimizing performance, automating workflows, and collaborating with cross-functional teams.
+
+<p align="center">
+<!--   <img src="./assets/about.svg" alt="About Illustration" width="200" /> -->
+  <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="80" fill="#81A1C1" />
+  <text x="100" y="115" font-size="24" text-anchor="middle" fill="#ECEFF4">About</text>
 </svg>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <svg width="80" height="80" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" style="margin:0 10px;"><circle cx="32" cy="32" r="32" fill="#F7DF1E"/><text x="32" y="38" font-size="24" text-anchor="middle" fill="#000" font-family="Arial">JS</text></svg>
-  <svg width="80" height="80" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" style="margin:0 10px;"><rect width="64" height="64" fill="#007ACC"/><text x="32" y="38" font-size="24" text-anchor="middle" fill="#FFF" font-family="Arial">TS</text></svg>
-  <svg width="80" height="80" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" style="margin:0 10px;"><path d="M0 0h64v64H0z" fill="#61DAFB"/><text x="32" y="38" font-size="24" text-anchor="middle" fill="#000" font-family="Arial">React</text></svg>
-  <svg width="80" height="80" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" style="margin:0 10px;"><path d="M0 0h64v64H0z" fill="#339933"/><text x="32" y="38" font-size="24" text-anchor="middle" fill="#FFF" font-family="Arial">Node</text></svg>
-  <svg width="80" height="80" viewBox="0 0 64 64"xmlns="http://www.w3.org/2000/svg" style="margin:0 10px;"><circle cx="32" cy="32" r="32" fill="#FF9900"/><text x="32" y="38" font-size="24" text-anchor="middle" fill="#FFF" font-family="Arial">AWS</text></svg>
+<!--   <img src="./assets/languages.svg" alt="Languages" width="100" /> -->
+<!--   <img src="./assets/frontend.svg" alt="Frontend" width="100" /> -->
+<!--   <img src="./assets/backend.svg" alt="Backend" width="100" /> -->
+<!--   <img src="./assets/cloud.svg" alt="Cloud & DevOps" width="100" /> -->
+<!--   <img src="./assets/testing.svg" alt="Testing" width="100" /> -->
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="100" fill="#88C0D0" />
+  <text x="50" y="55" font-size="16" text-anchor="middle" fill="#2E3440">JS/TS</text>
+</svg>
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="100" fill="#8FBCBB" />
+  <text x="50" y="55" font-size="16" text-anchor="middle" fill="#2E3440">Front</text>
+</svg>
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="100" fill="#A3BE8C" />
+  <text x="50" y="55" font-size="16" text-anchor="middle" fill="#2E3440">Back</text>
+</svg>
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="100" fill="#EBCB8B" />
+  <text x="50" y="55" font-size="14" text-anchor="middle" fill="#2E3440">Cloud</text>
+</svg>
+  <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="100" fill="#D08770" />
+  <text x="50" y="55" font-size="14" text-anchor="middle" fill="#2E3440">Test</text>
+</svg>
 </div>
+
+- **Languages:** JavaScript | TypeScript | HTML5 | CSS3  
+- **Frameworks:** React • Next.js • Vue • Angular  
+- **State Management:** Redux • Zustand  
+- **Backend:** Node.js • Express • NestJS  
+- **Databases:** PostgreSQL • MongoDB  
+- **Cloud & DevOps:** AWS (EC2 • S3 • Lambda) • Docker • GitHub Actions  
+- **Testing:** Jest • Cypress • React Testing Library
 
 ---
 
 ## 🌟 Achievements
-- **High-Performance Insider Site:** Developed from scratch with optimized UX and automated CI/CD pipelines.
-- **Cross-Functional Collaboration:** Worked closely with design, QA, and product teams to deliver features on time.
-- **Personal Projects:** NextConnect • PhoneFleet • BudgetTracker
 
-<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" style="display:block;margin:20px auto;">
-  <circle cx="100" cy="100" r="100" fill="#E5E7EB"/>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#374151" font-size="24" font-family="Arial">🏆</text>
+- **⚡ High-Performance Website for Insiders:** Built from scratch with optimized UX and automated CI/CD.  
+- **🤝 Cross-Functional Collaboration:** Worked closely with design, QA, and product teams.  
+- **🎯 Personal Projects:** NextConnect • PhoneFleet • BudgetTracker
+
+<p align="center">
+<!--   <img src="./assets/achievements.svg" alt="Achievements Illustration" width="200" /> -->
+  <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="100,10 120,180 10,60 190,60 80,180" fill="#B48EAD" />
+  <text x="100" y="110" font-size="24" text-anchor="middle" fill="#ECEFF4">Wins</text>
 </svg>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NasyTheSlayer&theme=radical&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasyTheSlayer&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🚧 Selected Projects
-| Project         | Description                          | Demo                                                   | Code                                                   |
-|-----------------|--------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
-| **NextConnect** | Auth & CMS platform in Next.js       | [Demo](#)                                              | [Repo](#)                                              |
-| **PhoneFleet**  | Mobile product management in React   | [Demo](https://nasytheslayer.github.io/ReactPhoneCatalog/) | [Repo](https://github.com/NasyTheSlayer/ReactPhoneCatalog) |
-| **BudgetTracker** | Expense tracker with Angular       | [Demo](#)                                              | [Repo](#)                                              |
+
+| Project           | Technologies                  | Demo                                    | Repo                                                         |
+| ----------------- | ----------------------------- | --------------------------------------- | ------------------------------------------------------------ |
+| **NextConnect**   | Next.js • Tailwind • Clerk    | [Live Demo](#)                          | [Code](#)                                                    |
+| **PhoneFleet**    | React • Vite • Material UI    | [Live Demo](https://nasytheslayer.github.io/ReactPhoneCatalog/) | [GitHub](https://github.com/NasyTheSlayer/ReactPhoneCatalog) |
+| **BudgetTracker** | Angular • NgRx • Firebase     | [Live Demo](#)                          | [Repo](#)                                                    |
 
 ---
 
 ## 📫 Let’s Connect
-Feel free to reach out:
-- ✉️ Email: <nazar@example.com>
-- 💬 Telegram: [@NasyTheSlayer](https://t.me/NasyTheSlayer)
-- 🔗 LinkedIn: [Nazar Levkovych](https://www.linkedin.com/in/nazar-levkovych-333501266/)
 
-<!-- FOOTER WAVE -->
-<svg width="100%" height="40" viewBox="0 0 1200 40" xmlns="http://www.w3.org/2000/svg">
-  <path d="M0,20 C150,0 350,40 600,20 C850,0 1050,40 1200,20 L1200,0 L0,0 Z" fill="#2E3440" />
+Feel free to reach out!  
+- ✉️ Email: <a href="mailto:nazar@example.com">nazar@example.com</a>  
+- 💬 Telegram: <a href="https://t.me/NasyTheSlayer">@NasyTheSlayer</a>  
+- 🗨️ LinkedIn: <a href="https://www.linkedin.com/in/nazar-levkovych-333501266/">Nazar Levkovych</a>
+
+<p align="center">
+<!--   <img src="./assets/footer-wave.svg" alt="Footer Wave" width="100%" /> -->
+  <svg width="1440" height="320" viewBox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#a2d9ff" fill-opacity="1" d="M0,128L18.5,128C36.9,128,74,128,111,112C147.7,96,185,64,222,85.3C258.5,107,295,181,332,176C369.2,171,406,85,443,90.7C480,96,517,192,554,234.7C590.8,277,628,267,665,234.7C701.5,203,738,149,775,144C812.3,139,849,181,886,192C923.1,203,960,181,997,186.7C1033.8,192,1071,224,1108,234.7C1144.6,245,1182,235,1218,197.3C1255.4,160,1292,96,1329,74.7C1366.2,53,1403,75,1422,85.3L1440,96L1440,320L1421.5,320C1403.1,320,1366,320,1329,320C1292.3,320,1255,320,1218,320C1181.5,320,1145,320,1108,320C1070.8,320,1034,320,997,320C960,320,923,320,886,320C849.2,320,812,320,775,320C738.5,320,702,320,665,320C627.7,320,591,320,554,320C516.9,320,480,320,443,320,406.2,320,369,320,332,320,295.4,320,258,320,222,320,184.6,320,148,320,111,320,73.8,320,37,320,18,320,0,320Z"/>
 </svg>
+</p>
+
+```xml
+<!-- assets/hero.svg -->
+<svg width="1200" height="40" viewBox="0 0 1200 40" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0,20 C150,40 350,0 600,20 C850,40 1050,0 1200,20 L1200,40 L0,40 Z" fill="#2E3440"/>
+</svg>
+```
+
+```xml
+<!-- assets/about.svg -->
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="80" fill="#81A1C1" />
+  <text x="100" y="115" font-size="24" text-anchor="middle" fill="#ECEFF4">About</text>
+</svg>
+```
+
+```xml
+<!-- assets/languages.svg -->
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="100" fill="#88C0D0" />
+  <text x="50" y="55" font-size="16" text-anchor="middle" fill="#2E3440">JS/TS</text>
+</svg>
+```
+
+```xml
+<!-- assets/frontend.svg -->
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="100" fill="#8FBCBB" />
+  <text x="50" y="55" font-size="16" text-anchor="middle" fill="#2E3440">Front</text>
+</svg>
+```
+
+```xml
+<!-- assets/backend.svg -->
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="100" fill="#A3BE8C" />
+  <text x="50" y="55" font-size="16" text-anchor="middle" fill="#2E3440">Back</text>
+</svg>
+```
+
+```xml
+<!-- assets/cloud.svg -->
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="100" fill="#EBCB8B" />
+  <text x="50" y="55" font-size="14" text-anchor="middle" fill="#2E3440">Cloud</text>
+</svg>
+```
+
+```xml
+<!-- assets/testing.svg -->
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="100" fill="#D08770" />
+  <text x="50" y="55" font-size="14" text-anchor="middle" fill="#2E3440">Test</text>
+</svg>
+```
+
+```xml
+<!-- assets/achievements.svg -->
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="100,10 120,180 10,60 190,60 80,180" fill="#B48EAD" />
+  <text x="100" y="110" font-size="24" text-anchor="middle" fill="#ECEFF4">Wins</text>
+</svg>
+```
+
+```xml
+<!-- assets/footer-wave.svg -->
+<svg width="1440" height="320" viewBox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#a2d9ff" fill-opacity="1" d="M0,128L18.5,128C36.9,128,74,128,111,112C147.7,96,185,64,222,85.3C258.5,107,295,181,332,176C369.2,171,406,85,443,90.7C480,96,517,192,554,234.7C590.8,277,628,267,665,234.7C701.5,203,738,149,775,144C812.3,139,849,181,886,192C923.1,203,960,181,997,186.7C1033.8,192,1071,224,1108,234.7C1144.6,245,1182,235,1218,197.3C1255.4,160,1292,96,1329,74.7C1366.2,53,1403,75,1422,85.3L1440,96L1440,320L1421.5,320C1403.1,320,1366,320,1329,320C1292.3,320,1255,320,1218,320C1181.5,320,1145,320,1108,320C1070.8,320,1034,320,997,320C960,320,923,320,886,320C849.2,320,812,320,775,320C738.5,320,702,320,665,320C627.7,320,591,320,554,320C516.9,320,480,320,443,320,406.2,320,369,320,332,320,295.4,320,258,320,222,320,184.6,320,148,320,111,320,73.8,320,37,320,18,320,0,320Z"/>
+</svg>
+```
