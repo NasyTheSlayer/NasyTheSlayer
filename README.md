@@ -44,9 +44,9 @@ I’m a passionate Full-Stack Developer with over 2 years of experience building
 
 ## 🌟 Achievements
 
-- **⚡ High-Performance Website for Insiders:** Built from scratch with optimized UX and automated CI/CD.  
+- **⚡ High-Performance Website for Company:** Built from scratch with optimized UX and automated CI/CD.  
 - **🤝 Cross-Functional Collaboration:** Worked closely with design, QA, and product teams.  
-- **🎯 Personal Projects:** NextConnect • PhoneFleet • BudgetTracker
+- **🎯 Personal Projects:** PotrPotsLanding • PhoneFleet • VueSneakers
 
 <p align="center">
 <!--   <img src="./assets/achievements.svg" alt="Achievements Illustration" width="200" /> -->
@@ -66,20 +66,20 @@ I’m a passionate Full-Stack Developer with over 2 years of experience building
   **Pet Projects**  
   | Project             | Tech Stack                         | Demo             | Code             |
   |---------------------|------------------------------------|------------------|------------------|
-  | **PotrPotsLanding** | HTML • SCSS • JavaScript           | [Live](https://nasytheslayer.github.io/PotrPotsLanding/)         | [Repo](https://github.com/NasyTheSlayer/PotrPotsLanding)        |
-  | **NextConnect**     | Next.js • Tailwind • Clerk         | [Live](#)        | [Repo](#)        |
-  | **PhoneFleet**      | React • TypeScript • Redux         | [Live](#)        | [Repo](#)        |
+  | **PotrPotsLanding** | HTML • SCSS • JavaScript | [Live](https://nasytheslayer.github.io/PotrPotsLanding/) | [Repo](https://github.com/NasyTheSlayer/PotrPotsLanding) |
+  | **PhoneFleet** | React • TypeScript • Redux | [Live](https://nasytheslayer.github.io/ReactPhoneCatalog/) | [Repo](https://github.com/NasyTheSlayer/ReactPhoneCatalog) |
+  | **VueSneakers** | Vue 3 • Tailwind • Axios | [Live](https://vue-sneakers-hazel.vercel.app/) | [Repo](https://github.com/NasyTheSlayer/VueSneakers) |
 
   </div>
 
   <div style="width: 48%;">
 
   **Test Tasks**  
-  | Task                | Tech Stack                        | Status       | Link             |
+  | Task                | Tech Stack                        | Demo       | Code             |
   |---------------------|------------------------------------|--------------|------------------|
-  | **UI Component**    | Responsive card component          | Completed    | [View](#)        |
-  | **API Integration** | Consume public REST API            | In Progress  | [Repo](#)        |
-  | **DB Schema**       | Design relational data model       | Pending      | [Details](#)     |
+  | **TrainsSheduleTestTaskFrontend** | Next • TS • ReactQuerry • Chakra UI | [Live](https://trainshedulettt.click/) | [Code](https://github.com/NasyTheSlayer/TrainsSheduleTestTaskFrontend) |
+  | **TrainsSheduleTestTaskBackend** | Nest • TS • Node • Express | [Live](https://api.trainshedulettt.click/) | [Code](https://github.com/NasyTheSlayer/TrainsSheduleTestTaskBackend) |
+  | **MyResumeTestTask** | JS • jQuery • GSAP • Bootstrap | [Live](https://nasytheslayer.github.io/MyResumeTestTask/) | [Code](https://github.com/NasyTheSlayer/MyResumeTestTask) |
 
   </div>
 
