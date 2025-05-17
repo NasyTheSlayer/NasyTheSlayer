@@ -66,18 +66,16 @@ I’m a passionate Full-Stack Developer with over 2 years of experience building
   **Pet Projects**  
   | Project             | Tech Stack                         | Demo             | Code             |
   |---------------------|------------------------------------|------------------|------------------|
+  | **PotrPotsLanding** | HTML • SCSS • JavaScript           | [Live](https://nasytheslayer.github.io/PotrPotsLanding/)         | [Repo](https://github.com/NasyTheSlayer/PotrPotsLanding)        |
   | **NextConnect**     | Next.js • Tailwind • Clerk         | [Live](#)        | [Repo](#)        |
-  | **2048 Mastermind** | JavaScript                         | [Live](#)        | [Repo](#)        |
   | **PhoneFleet**      | React • TypeScript • Redux         | [Live](#)        | [Repo](#)        |
-  | **SneakerSphere**   | React • Figma design • Axios       | [Live](#)        | [Repo](#)        |
-  | **BudgetTracker**   | Angular • NgRx • Firebase          | [Live](#)        | [Repo](#)        |
 
   </div>
 
   <div style="width: 48%;">
 
   **Test Tasks**  
-  | Task                | Description                        | Status       | Link             |
+  | Task                | Tech Stack                        | Status       | Link             |
   |---------------------|------------------------------------|--------------|------------------|
   | **UI Component**    | Responsive card component          | Completed    | [View](#)        |
   | **API Integration** | Consume public REST API            | In Progress  | [Repo](#)        |
