@@ -57,41 +57,34 @@ I’m a passionate Full-Stack Developer with over 2 years of experience building
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasyTheSlayer&layout=compact&theme=highcontrast" alt="Top Languages" />
-</p>
-
----
-
 ## 🚧 Projects
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 2rem;">
+
+<div style="flex: 1; min-width: 45%;">
 
 **Pet Projects**  
-| Project            | Tech Stack                         | Demo             | Code             |
-|--------------------|------------------------------------|------------------|------------------|
-| **NextConnect**    | Next.js • Tailwind • Clerk         | [Live](#)        | [Repo](#)        |
-| **2048 Mastermind**| JavaScript                         | [Live](#)        | [Repo](#)        |
-| **PhoneFleet**     | React • TypeScript • Redux         | [Live](#)        | [Repo](#)        |
-| **SneakerSphere**  | React • Figma design • Axios       | [Live](#)        | [Repo](#)        |
-| **BudgetTracker**  | Angular • NgRx • Firebase          | [Live](#)        | [Repo](#)        |
+| Project             | Tech Stack                         | Demo             | Code             |
+|---------------------|------------------------------------|------------------|------------------|
+| **NextConnect**     | Next.js • Tailwind • Clerk         | [Live](#)        | [Repo](#)        |
+| **2048 Mastermind** | JavaScript                         | [Live](#)        | [Repo](#)        |
+| **PhoneFleet**      | React • TypeScript • Redux         | [Live](#)        | [Repo](#)        |
+| **SneakerSphere**   | React • Figma design • Axios       | [Live](#)        | [Repo](#)        |
+| **BudgetTracker**   | Angular • NgRx • Firebase          | [Live](#)        | [Repo](#)        |
 
+</div>
+<div style="flex: 1; min-width: 45%;">
 
 **Test Tasks**  
-| Task               | Description                         | Status       | Link             |
-|--------------------|-------------------------------------|--------------|------------------|
-| **UI Component**   | Responsive card component           | Completed    | [View](#)        |
-| **API Integration**| Consume public REST API             | In Progress  | [Repo](#)        |
-| **DB Schema**      | Design relational data model        | Pending      | [Details](#)     |
+| Task                | Description                        | Status       | Link             |
+|---------------------|------------------------------------|--------------|------------------|
+| **UI Component**    | Responsive card component          | Completed    | [View](#)        |
+| **API Integration** | Consume public REST API            | In Progress  | [Repo](#)        |
+| **DB Schema**       | Design relational data model       | Pending      | [Details](#)     |
 
-  </tr>
-</table>
+</div>
 
-*Tables rendered with GitHub-flavored Markdown (organizing information into columns) turn0search5 :contentReference[oaicite:1]{index=1}.*
+</div>
 
 ---
 
