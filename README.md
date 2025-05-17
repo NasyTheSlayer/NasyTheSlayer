@@ -60,8 +60,8 @@ I’m a passionate Full-Stack Developer with over 2 years of experience building
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NasyTheSlayer&theme=radical&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasyTheSlayer&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasyTheSlayer&layout=compact&theme=highcontrast" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NasyTheSlayer&range=last_7_days&theme=radical" alt="WakaTime Stats" />
 </p>
 
 ---
