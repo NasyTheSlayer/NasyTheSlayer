@@ -59,33 +59,15 @@ I’m a passionate Full-Stack Developer with over 2 years of experience building
 
 ## 🚧 Projects
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 2rem;">
-
-  <div style="width: 48%;">
-
-  **Pet Projects**  
-  | Project             | Tech Stack                         | Demo             | Code             |
-  |---------------------|------------------------------------|------------------|------------------|
-  | **NextConnect**     | Next.js • Tailwind • Clerk         | [Live](#)        | [Repo](#)        |
-  | **2048 Mastermind** | JavaScript                         | [Live](#)        | [Repo](#)        |
-  | **PhoneFleet**      | React • TypeScript • Redux         | [Live](#)        | [Repo](#)        |
-  | **SneakerSphere**   | React • Figma design • Axios       | [Live](#)        | [Repo](#)        |
-  | **BudgetTracker**   | Angular • NgRx • Firebase          | [Live](#)        | [Repo](#)        |
-
-  </div>
-
-  <div style="width: 48%;">
-
-  **Test Tasks**  
-  | Task                | Description                        | Status       | Link             |
-  |---------------------|------------------------------------|--------------|------------------|
-  | **UI Component**    | Responsive card component          | Completed    | [View](#)        |
-  | **API Integration** | Consume public REST API            | In Progress  | [Repo](#)        |
-  | **DB Schema**       | Design relational data model       | Pending      | [Details](#)     |
-
-  </div>
-
-</div>
+| **Pet Projects**                                                                                                                                   | **Test Tasks**                                                                                                              |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| **Project**             | **Tech Stack**                       | **Demo**       | **Code**       | **Task**            | **Description**                 | **Status**     | **Link**        |
+|-------------------------|--------------------------------------|----------------|----------------|---------------------|---------------------------------|----------------|-----------------|
+| **NextConnect**         | Next.js • Tailwind • Clerk           | [Live](#)      | [Repo](#)      | **UI Component**    | Responsive card component       | Completed      | [View](#)       |
+| **2048 Mastermind**     | JavaScript                           | [Live](#)      | [Repo](#)      | **API Integration** | Consume public REST API         | In Progress    | [Repo](#)       |
+| **PhoneFleet**          | React • TypeScript • Redux           | [Live](#)      | [Repo](#)      | **DB Schema**       | Design relational data model    | Pending        | [Details](#)    |
+| **SneakerSphere**       | React • Figma design • Axios         | [Live](#)      | [Repo](#)      |                     |                                 |                |                 |
+| **BudgetTracker**       | Angular • NgRx • Firebase            | [Live](#)      | [Repo](#)      |                     |                                 |                |                 |
 
 ---
 
