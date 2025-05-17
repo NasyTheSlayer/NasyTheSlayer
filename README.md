@@ -61,28 +61,29 @@ I’m a passionate Full-Stack Developer with over 2 years of experience building
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 2rem;">
 
-<div style="flex: 1; min-width: 45%;">
+  <div style="width: 48%;">
 
-**Pet Projects**  
-| Project             | Tech Stack                         | Demo             | Code             |
-|---------------------|------------------------------------|------------------|------------------|
-| **NextConnect**     | Next.js • Tailwind • Clerk         | [Live](#)        | [Repo](#)        |
-| **2048 Mastermind** | JavaScript                         | [Live](#)        | [Repo](#)        |
-| **PhoneFleet**      | React • TypeScript • Redux         | [Live](#)        | [Repo](#)        |
-| **SneakerSphere**   | React • Figma design • Axios       | [Live](#)        | [Repo](#)        |
-| **BudgetTracker**   | Angular • NgRx • Firebase          | [Live](#)        | [Repo](#)        |
+  **Pet Projects**  
+  | Project             | Tech Stack                         | Demo             | Code             |
+  |---------------------|------------------------------------|------------------|------------------|
+  | **NextConnect**     | Next.js • Tailwind • Clerk         | [Live](#)        | [Repo](#)        |
+  | **2048 Mastermind** | JavaScript                         | [Live](#)        | [Repo](#)        |
+  | **PhoneFleet**      | React • TypeScript • Redux         | [Live](#)        | [Repo](#)        |
+  | **SneakerSphere**   | React • Figma design • Axios       | [Live](#)        | [Repo](#)        |
+  | **BudgetTracker**   | Angular • NgRx • Firebase          | [Live](#)        | [Repo](#)        |
 
-</div>
-<div style="flex: 1; min-width: 45%;">
+  </div>
 
-**Test Tasks**  
-| Task                | Description                        | Status       | Link             |
-|---------------------|------------------------------------|--------------|------------------|
-| **UI Component**    | Responsive card component          | Completed    | [View](#)        |
-| **API Integration** | Consume public REST API            | In Progress  | [Repo](#)        |
-| **DB Schema**       | Design relational data model       | Pending      | [Details](#)     |
+  <div style="width: 48%;">
 
-</div>
+  **Test Tasks**  
+  | Task                | Description                        | Status       | Link             |
+  |---------------------|------------------------------------|--------------|------------------|
+  | **UI Component**    | Responsive card component          | Completed    | [View](#)        |
+  | **API Integration** | Consume public REST API            | In Progress  | [Repo](#)        |
+  | **DB Schema**       | Design relational data model       | Pending      | [Details](#)     |
+
+  </div>
 
 </div>
 
