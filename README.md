@@ -1,8 +1,8 @@
 <p align="center">
-<!--   <img src="./assets/hero.svg" alt="Hero Wave" width="100%" /> -->
-  <svg width="1200" height="40" viewBox="0 0 1200 40" xmlns="http://www.w3.org/2000/svg">
+  <img src="./wave-haikei.svg" alt="Hero Wave" width="100%" />
+<!--   <svg width="1200" height="40" viewBox="0 0 1200 40" xmlns="http://www.w3.org/2000/svg">
   <path d="M0,20 C150,40 350,0 600,20 C850,40 1050,0 1200,20 L1200,40 L0,40 Z" fill="#2E3440"/>
-</svg>
+</svg> -->
 </p>
 
 <h1 align="center">👋 Hi, I’m Nazar Levkovych</h1>
