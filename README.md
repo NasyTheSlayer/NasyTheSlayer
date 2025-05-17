@@ -39,6 +39,22 @@ I’m a passionate Full-Stack Developer with over 2 years of experience building
 - **Databases:** PostgreSQL • MongoDB  
 - **Cloud & DevOps:** AWS (EC2 • S3 • Lambda) • Docker • GitHub Actions  
 - **Testing:** Jest • Cypress • React Testing Library
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" /> <!-- JavaScript badge :contentReference[oaicite:0]{index=0} -->
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript" /> <!-- TypeScript badge :contentReference[oaicite:1]{index=1} -->
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square" alt="React" /> <!-- React badge :contentReference[oaicite:2]{index=2} -->
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js" /> <!-- Next.js badge :contentReference[oaicite:3]{index=3} -->
+  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D&style=for-the-badge" alt="Vue.js" /> <!-- Vue.js badge :contentReference[oaicite:4]{index=4} -->
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" alt="Angular" /> <!-- Angular badge :contentReference[oaicite:5]{index=5} -->
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" alt="Redux" /> <!-- Redux badge :contentReference[oaicite:6]{index=6} -->
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" /> <!-- Node.js badge :contentReference[oaicite:7]{index=7} -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" /> <!-- PostgreSQL badge :contentReference[oaicite:8]{index=8} -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white&style=flat" alt="AWS" /> <!-- AWS badge :contentReference[oaicite:9]{index=9} -->
+  <img src="https://img.shields.io/badge/Docker-257BD6?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" /> <!-- Docker badge :contentReference[oaicite:10]{index=10} -->
+  <img src="https://img.shields.io/badge/Jest-323330?logo=jest&logoColor=white&style=for-the-badge" alt="Jest" /> <!-- Jest badge :contentReference[oaicite:11]{index=11} -->
+  <img src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=white&style=for-the-badge" alt="Cypress" /> <!-- Cypress badge :contentReference[oaicite:12]{index=12} -->
+  <img src="https://img.shields.io/badge/Testing%20Library-FFF?logo=testing-library&logoColor=black&style=for-the-badge" alt="React Testing Library" /> <!-- Testing Library badge :contentReference[oaicite:13]{index=13} -->
+</p>
 
 ---
 
@@ -47,6 +63,8 @@ I’m a passionate Full-Stack Developer with over 2 years of experience building
 - **⚡ High-Performance Website for Company:** Built from scratch with optimized UX and automated CI/CD.  
 - **🤝 Cross-Functional Collaboration:** Worked closely with design, QA, and product teams.  
 - **🎯 Personal Projects:** PotrPotsLanding • PhoneFleet • VueSneakers
+- 🧠 **Problem Solving:** Solved **200+ challenges on LeetCode** and **50+ katas on CodeWars**.  
+- 📚 **Continuous Learning:** Completed *Grokking Algorithms* by Aditya Bhargava and *JavaScript: The Definitive Guide* by David Flanagan.
 
 <p align="center">
 <!--   <img src="./assets/achievements.svg" alt="Achievements Illustration" width="200" /> -->
@@ -90,7 +108,7 @@ I’m a passionate Full-Stack Developer with over 2 years of experience building
 ## 📫 Let’s Connect
 
 Feel free to reach out!  
-- ✉️ Email: <a href="mailto:nazar@example.com">nazar@example.com</a>  
+- ✉️ Email: <a href="mailto:nazar@example.com">nazar.levkovich.2018@gmail.com</a>  
 - 💬 Telegram: <a href="https://t.me/NasyTheSlayer">@NasyTheSlayer</a>  
 - 🗨️ LinkedIn: <a href="https://www.linkedin.com/in/nazar-levkovych-333501266/">Nazar Levkovych</a>
 
