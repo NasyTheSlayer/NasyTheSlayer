@@ -80,8 +80,6 @@ I’m a passionate Full-Stack Developer with over 2 years of experience building
 | **SneakerSphere**  | React • Figma design • Axios       | [Live](#)        | [Repo](#)        |
 | **BudgetTracker**  | Angular • NgRx • Firebase          | [Live](#)        | [Repo](#)        |
 
-    </td>
-    <td valign="top" width="50%">
 
 **Test Tasks**  
 | Task               | Description                         | Status       | Link             |
@@ -90,7 +88,6 @@ I’m a passionate Full-Stack Developer with over 2 years of experience building
 | **API Integration**| Consume public REST API             | In Progress  | [Repo](#)        |
 | **DB Schema**      | Design relational data model        | Pending      | [Details](#)     |
 
-    </td>
   </tr>
 </table>
 
