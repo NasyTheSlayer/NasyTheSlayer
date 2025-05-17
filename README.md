@@ -32,11 +32,6 @@ I’m a passionate Full-Stack Developer with over 2 years of experience building
 
 ## 🛠️ Tech Stack
 
-<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg">
-  <rect width="24" height="24" fill="#8FBCBB"/>
-  <path d="M4 18 L12 6 L20 18 Z" fill="#2E3440"/>
-</svg>
-
 - **Languages:** JavaScript | TypeScript | HTML5 | CSS3  
 - **Frameworks:** React • Next.js • Vue • Angular  
 - **State Management:** Redux • Zustand  
@@ -66,19 +61,75 @@ I’m a passionate Full-Stack Developer with over 2 years of experience building
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasyTheSlayer&layout=compact&theme=highcontrast" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NasyTheSlayer&range=last_7_days&theme=radical" alt="WakaTime Stats" />
 </p>
 
 ---
 
 ## 🚧 Selected Projects
 
-| Project           | Technologies                  | Demo                                    | Repo                                                         |
-| ----------------- | ----------------------------- | --------------------------------------- | ------------------------------------------------------------ |
-| **NextConnect**   | Next.js • Tailwind • Clerk    | [Live Demo](#)                          | [Code](#)                                                    |
-| **PhoneFleet**    | React • Vite • Material UI    | [Live Demo](https://nasytheslayer.github.io/ReactPhoneCatalog/) | [GitHub](https://github.com/NasyTheSlayer/ReactPhoneCatalog) |
-| **BudgetTracker** | Angular • NgRx • Firebase     | [Live Demo](#)                          | [Repo](#)                                                    |
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 2rem;">
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Technologies</th>
+      <th>Demo</th>
+      <th>Repo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>NextConnect</strong></td>
+      <td>Next.js • Tailwind • Clerk</td>
+      <td><a href="#">Live Demo</a></td>
+      <td><a href="#">Code</a></td>
+    </tr>
+    <tr>
+      <td><strong>PhoneFleet</strong></td>
+      <td>React • Vite • Material UI</td>
+      <td><a href="https://nasytheslayer.github.io/ReactPhoneCatalog/">Live Demo</a></td>
+      <td><a href="https://github.com/NasyTheSlayer/ReactPhoneCatalog">GitHub</a></td>
+    </tr>
+    <tr>
+      <td><strong>BudgetTracker</strong></td>
+      <td>Angular • NgRx • Firebase</td>
+      <td><a href="#">Live Demo</a></td>
+      <td><a href="#">Repo</a></td>
+    </tr>
+  </tbody>
+</table>
 
+<table>
+  <thead>
+    <tr>
+      <th>Test Task</th>
+      <th>Description</th>
+      <th>Status</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>UI Component</strong></td>
+      <td>Create responsive card component</td>
+      <td>Completed</td>
+      <td><a href="#">View</a></td>
+    </tr>
+    <tr>
+      <td><strong>API Integration</strong></td>
+      <td>Consume public REST API</td>
+      <td>In Progress</td>
+      <td><a href="#">Repo</a></td>
+    </tr>
+    <tr>
+      <td><strong>Database Schema</strong></td>
+      <td>Design relational model</td>
+      <td>Pending</td>
+      <td><a href="#">Details</a></td>
+    </tr>
+  </tbody>
+</table>
+</div>
 ---
 
 ## 📫 Let’s Connect
